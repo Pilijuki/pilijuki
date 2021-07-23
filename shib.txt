@@ -1,0 +1,1 @@
+--pool rx.unmineable.com:3333 --username SHIB:0xd8735520b1487905fc4f009bdd855ab2becd0912.bibir8k21 --algorithm wrkzcoin
