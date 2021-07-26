@@ -1,0 +1,1 @@
+./violetminer --pool rx.unmineable.com:3333 --username BTT:TJPDZCGJt8cuj1sPxaiSdtwHwe6LodFWBU.hp1 --algorithm wrkzcoin
